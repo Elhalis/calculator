@@ -1,5 +1,5 @@
 Flutter UI for a Calculator
-A Flutter UI design implementation for a Fruit Store App inspired by Zhubajie's desgin on Dribble.
+A Flutter UI design implementation for a Calculator.
 
 Star this repo if you like what you see.
 
