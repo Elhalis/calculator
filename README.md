@@ -1,16 +1,23 @@
-# calculator
+Flutter UI for a Calculator
+A Flutter UI design implementation for a Fruit Store App inspired by Zhubajie's desgin on Dribble.
 
-A new Flutter project.
+Star this repo if you like what you see.
 
-## Getting Started
+📸 Screenshots
+   
 
-This project is a starting point for a Flutter application.
+Author(s)
+Ahmed Hassan
 
-A few resources to get you started if this is your first Flutter project:
+Getting Started
+Note: Make sure your Flutter environment is setup.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Installation
+In the command terminal, run the following commands:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+$ git clone url
+$ cd calculator/
+$ flutter packages get
+$ flutter run
+Check out Flutter’s online documentation for help getting started with your Flutter project.
+
